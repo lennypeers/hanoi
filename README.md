@@ -11,13 +11,16 @@ A version of Tower of Hanoi in Python
 
 ### Installing
 
-* Clone the repo:
-> `git clone https://github.com/lennypeers/hanoi.git`
+`\# Clone the repo:
 
-* And run the game:
->`chmod +x main.py`
+$ git clone https://github.com/lennypeers/hanoi.git
 
-> `./main.py`
+
+\# And run the game:
+
+$ chmod +x main.py
+
+$ ./main.py `
 
 ## Credits
 
