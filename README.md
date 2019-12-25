@@ -20,7 +20,7 @@ $ git clone https://github.com/lennypeers/hanoi.git
 
 $ chmod +x main.py
 
-$ ./main.py `
+$ ./main.py`
 
 ## Credits
 
