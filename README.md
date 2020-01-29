@@ -7,6 +7,7 @@ A version of Tower of Hanoi in Python
 
 * Python 3
 * Turtle module
+* Tkinter module
 * Pickle module
 
 ### Installing
@@ -14,7 +15,7 @@ A version of Tower of Hanoi in Python
 ```
 # Clone the repo:
 
-$ git clone https://github.com/lennypeers/hanoi.git
+$ git clone https://github.com/lennypeers/hanoi.git && cd hanoi
 
 # And run the game:
 
