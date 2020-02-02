@@ -21,7 +21,7 @@ $ git clone https://github.com/lennypeers/hanoi.git && cd hanoi
 
 $ chmod +x main.py
 
-$ ./main.py
+$ python3 ./main.py
 ```
 
 ## Credits
