@@ -15,13 +15,13 @@ A version of Tower of Hanoi in Python
 ```
 # Clone the repo:
 
-$ git clone https://github.com/lennypeers/hanoi.git && cd hanoi
+git clone https://github.com/lennypeers/hanoi.git && cd hanoi
 
 # And run the game:
 
-$ chmod +x main.py
+chmod +x main.py
 
-$ python3 ./main.py
+python3 ./main.py
 ```
 
 ## Credits
